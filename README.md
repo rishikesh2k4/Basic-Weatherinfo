@@ -20,6 +20,6 @@ A **basic sleek and responsive web application** that allows users to search for
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3 (Flexbox/Grid, Media Queries)
-- JavaScript (Fetch API)
+- HTML
+- CSS3 
+- JavaScript 
